@@ -95,52 +95,8 @@
 
 <br/>
 
-##  📊 Github Stats (Expand to View)
-
-<details>
-
-<summary><b>💻 GitHub Profile Stats</b></summary>
-
-<br/>
-
-<p align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dieegopa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dieegopa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-
-<br/>
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dieegopa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dieegopa" height="192px"/>
-
-<br/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-</p>
-
-</details>
-
-<details>
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-
-<br/>
-
-<a href="https://github.com/dieegopa"><img alt="Dieegopa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dieegopa&custom_title=Dieegopa%20Contribution%20Graph&theme=react-dark" /></a>
-
-<br/>
-
-</details>
-
-<br/>
-
 ##  🙋🏽‍♂️ Let's Connect
 
-<p align="center">
-&emsp;
-<a href="https://diegopa.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
-&emsp;
 <a href="mailto:diegopadilla6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 &emsp;
 <a href="https://github.com/dieegopa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
