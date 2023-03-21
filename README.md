@@ -8,15 +8,12 @@
 
 <hr/>
 
-<h4 align="center">I am a Junior Neuromobile Marketing. I like to Code and Experiment. I am an enthusiastic person who loves to take up new challenges and learn new skills to solve problems.</h4>
+<h4 align="center">I am a Junior Developer at Neuromobile Marketing. I like to Code and Experiment. I am an enthusiastic person who loves to take up new challenges and learn new skills to solve problems.</h4>
 
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dieegopa&label=Profile%20views&color=0e75b6&style=plastic" alt="dieegopa" /> </p>
 
-##  🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dieegopa&theme=algolia" alt="dieegopa" /></p>
 
 ##  🛠️ My Skills
 
