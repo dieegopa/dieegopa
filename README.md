@@ -72,7 +72,6 @@
 <a href="https://laravel.com" target="_blank">
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </a>
-  
 &emsp;
 <a href="https://spring.io" target="_blank">
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
