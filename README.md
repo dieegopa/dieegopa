@@ -12,9 +12,6 @@
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dieegopa&label=Profile%20views&color=0e75b6&style=plastic" alt="dieegopa" /> </p>
-
-
 ##  🛠️ My Skills
 
 ###  👉 Programming languages
