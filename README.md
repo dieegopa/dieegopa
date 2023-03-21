@@ -53,7 +53,31 @@
 <a href="https://getbootstrap.com" target="_blank">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </a>
+&emsp;
+<a href="https://es.reactjs.org" target="_blank">
+<img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+&emsp;
+<a href="https://angular.io" target="_blank">
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</a>
 
+</p>
+
+###  👉 Frontend Development
+
+<p align="left">
+  
+&emsp;
+<a href="https://laravel.com" target="_blank">
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</a>
+  
+&emsp;
+<a href="https://spring.io" target="_blank">
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</a>
+  
 </p>
 
 ###  👉 Databases & Cloud Hosting
@@ -93,7 +117,6 @@
 
 </p>
 
-<br/>
 
 ##  🙋🏽‍♂️ Let's Connect
 
