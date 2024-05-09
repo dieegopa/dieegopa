@@ -1,8 +1,10 @@
 <h1 align="center">Hi , I'm Diego Padilla<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<p align="center" style="display: flex;margin-bottom:0">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Backend+Developer;Web+Engineering+Master+Student;Frontend+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Backend+Developer;Web+Engineer+;Frontend+Enthusiast" alt="Typing SVG" 
+                                      style="width: 100%!important;"/></a>
 
 </p>
 
