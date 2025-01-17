@@ -10,7 +10,7 @@
 
 <hr/>
 
-<h4 align="center">I am a Backend Developer at Neuromobile Marketing. I like to Code and Experiment. I am an enthusiastic person who loves to take up new challenges and learn new skills to solve problems.</h4>
+<h4 align="center">I am a Backend Developer. I like to Code and Experiment. I am an enthusiastic person who loves to take up new challenges and learn new skills to solve problems.</h4>
 
 <br>
 
